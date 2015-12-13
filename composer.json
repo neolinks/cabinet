@@ -1,7 +1,7 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "ecotaxi/cabinet",
+	"description": "ecotaxi cabinet of persons.",
+	"keywords": ["cabinet", "ecotaxi"],
 	"license": "MIT",
 	"type": "project",
 	"require": {
