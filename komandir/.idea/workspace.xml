@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="636d0937-bdf5-4d57-8140-0677b21f0a3f" name="Default" comment="" />
+    <ignored path="api.komandir.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="api.komandir" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="routes.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="57" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.44576877" vertical-offset="0" max-vertical-offset="1105">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppServiceProvider.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="32" selection-start="802" selection-end="802" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="816">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/personal/users/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="12" selection-start="1227" selection-end="1227" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1411">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compensation.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/personal/compensation.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="55" selection-start="1850" selection-end="1850" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2499">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overmilleage.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/personal/overmilleage.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/Commands/WialonCommands.php" />
+        <option value="$PROJECT_DIR$/app/Models/Driver.php" />
+        <option value="$PROJECT_DIR$/app/Models/Overmileage.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Drivers/Create.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Wialon/Violations.php" />
+        <option value="$PROJECT_DIR$/app/Services/City.php" />
+        <option value="$PROJECT_DIR$/app/Providers/WialonServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Libs/City.php" />
+        <option value="$PROJECT_DIR$/app/Providers/CityServiceProvider.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Drivers/Update.php" />
+        <option value="$PROJECT_DIR$/resources/views/v.blade.php" />
+        <option value="$PROJECT_DIR$/app/Libs/Wialon.php" />
+        <option value="$PROJECT_DIR$/app/Commands/Helpers.php" />
+        <option value="$PROJECT_DIR$/app/Console/Kernel.php" />
+        <option value="$PROJECT_DIR$/public/css/layout.css" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/app/Commands/DriverCommands.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Airport.php" />
+        <option value="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" />
+        <option value="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ru.php" />
+        <option value="$PROJECT_DIR$/resources/views/test.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AirportController.php" />
+        <option value="$PROJECT_DIR$/resources/views/personal/airport.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/light.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/personal/configs.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/personal/newDebtorID.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/personal/shiftsToCredit.blade.php" />
+        <option value="$PROJECT_DIR$/app/Libs/TMBase.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" />
+        <option value="$PROJECT_DIR$/resources/views/personal/overshift.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/DriversController.php" />
+        <option value="$PROJECT_DIR$/app/Models/Config.php" />
+        <option value="$PROJECT_DIR$/app/Models/Compensation.php" />
+        <option value="$PROJECT_DIR$/public/stylesheets/theme.css" />
+        <option value="$PROJECT_DIR$/resources/views/personal/exception.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/aircraft.blade.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Drivers/FakeGPS.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Drivers/NegativeBalance.php" />
+        <option value="$PROJECT_DIR$/app/Services/Almaty.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Drivers/Overmilleage.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Drivers/Overshift.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Drivers/Violation.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Drivers/Shashka.php" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/Crews/Smens.php" />
+        <option value="$PROJECT_DIR$/resources/views/personal/compensation.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PersonalController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpParamsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XAMPPKOMANDIR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="&#10;'&#10;',&#10;ar" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dashboard-laravel" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\api.komandir\resources\views\layouts" />
+      <recent name="C:\OpenServer\domains\api.komandir\public" />
+      <recent name="C:\OpenServer\domains\api.komandir\public\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\komandir\public\images" />
+      <recent name="C:\xampp\htdocs\api.komandir\app\Console\Commands" />
+      <recent name="C:\xampp\htdocs\api.komandir\resources\lang\" />
+      <recent name="C:\OpenServer\domains\api.komandir\app" />
+      <recent name="C:\OpenServer\domains\api.komandir\app\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" start_url="http://api.komandir/drivers/overshift?city=1">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="b9cd1019-a960-4e19-aaa2-9c9a98c8817f" server_name="api.komandir">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="636d0937-bdf5-4d57-8140-0677b21f0a3f" name="Default" comment="" />
+      <created>1444393764753</created>
+      <updated>1444393764753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.335578" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="68" selection-start="3116" selection-end="3116" vertical-scroll-proportion="0.92919254" vertical-offset="0" max-vertical-offset="8806" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Commands/DriverCommands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="0" selection-start="3955" selection-end="3955" vertical-scroll-proportion="1.5847458" vertical-offset="0" max-vertical-offset="2380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="66" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.44576877" vertical-offset="663" max-vertical-offset="2278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Commands/CrewCommands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="22" selection-start="1830" selection-end="1830" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/loading-icons/loading1.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/loading-icons/loading2.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/loading-icons/loading3.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/loading-icons/loading4.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="106063" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="66" selection-start="595" selection-end="607" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/test.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="49" selection-start="701" selection-end="701" vertical-scroll-proportion="0.25341615" vertical-offset="0" max-vertical-offset="805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Crews/Inline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="41" selection-start="1982" selection-end="1982" vertical-scroll-proportion="0.7699642" vertical-offset="459" max-vertical-offset="1615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="480" selection-end="480" vertical-scroll-proportion="0.29095355" vertical-offset="0" max-vertical-offset="818" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/newDebtorID.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="56" selection-start="85" selection-end="85" vertical-scroll-proportion="0.020782396" vertical-offset="0" max-vertical-offset="818" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/orders.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="31" selection-start="709" selection-end="709" vertical-scroll-proportion="0.30393326" vertical-offset="0" max-vertical-offset="839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/configs.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="17" selection-start="3052" selection-end="3052" vertical-scroll-proportion="0.73244554" vertical-offset="568" max-vertical-offset="1394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/light.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="352" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="2278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Libs/TMBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="27" selection-start="4410" selection-end="4410" vertical-scroll-proportion="-27.038462" vertical-offset="1609" max-vertical-offset="2448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="11" selection-start="2097" selection-end="2097" vertical-scroll-proportion="1.1954708" vertical-offset="0" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/overshift.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="10" selection-start="765" selection-end="765" vertical-scroll-proportion="5.5" vertical-offset="330" max-vertical-offset="1156" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DriversController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="37" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.28367105" vertical-offset="0" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CarsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1411" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Driver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="45" selection-start="578" selection-end="596" vertical-scroll-proportion="0.40524435" vertical-offset="0" max-vertical-offset="839">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="185" selection-end="245" vertical-scroll-proportion="0.16209774" vertical-offset="0" max-vertical-offset="839">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Compensation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="31" selection-start="184" selection-end="184" vertical-scroll-proportion="0.16209774" vertical-offset="0" max-vertical-offset="839">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AirportController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="32" selection-start="1316" selection-end="1316" vertical-scroll-proportion="0.51452786" vertical-offset="68" max-vertical-offset="1377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="28" selection-start="922" selection-end="930" vertical-scroll-proportion="0.5876043" vertical-offset="0" max-vertical-offset="839">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="249" selection-end="532" vertical-scroll-proportion="0.31173593" vertical-offset="0" max-vertical-offset="818" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="148" selection-end="148" vertical-scroll-proportion="0.11791907" vertical-offset="0" max-vertical-offset="865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Commands/CarsCommands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.18704157" vertical-offset="0" max-vertical-offset="818" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/exception.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="41" selection-start="2361" selection-end="2361" vertical-scroll-proportion="0.73913044" vertical-offset="408" max-vertical-offset="1887" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/en/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="53" selection-start="3664" selection-end="3664" vertical-scroll-proportion="1.2967819" vertical-offset="0" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/airport.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="29" selection-start="437" selection-end="437" vertical-scroll-proportion="0.2431466" vertical-offset="0" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/aircraft.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="122" selection-start="4846" selection-end="4846" vertical-scroll-proportion="2.696126" vertical-offset="0" max-vertical-offset="3485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1038" column="1" selection-start="25632" selection-end="25632" vertical-scroll-proportion="0.0" vertical-offset="15081" max-vertical-offset="17748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Drivers/Violation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="41" selection-start="984" selection-end="984" vertical-scroll-proportion="0.3849821" vertical-offset="408" max-vertical-offset="1683" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Drivers/Shashka.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="30" selection-start="1342" selection-end="1342" vertical-scroll-proportion="0.58998805" vertical-offset="389" max-vertical-offset="1581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Drivers/Overshift.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="54" selection-start="2530" selection-end="2530" vertical-scroll-proportion="0.905569" vertical-offset="561" max-vertical-offset="2142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Drivers/Overmilleage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.89153755" vertical-offset="34" max-vertical-offset="1819" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Drivers/NegativeBalance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1005" selection-end="1005" vertical-scroll-proportion="-14.384615" vertical-offset="408" max-vertical-offset="1700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Drivers/FakeGPS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="57" selection-start="2303" selection-end="2303" vertical-scroll-proportion="0.73244554" vertical-offset="483" max-vertical-offset="1836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Commands/Crews/Smens.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="29" selection-start="3406" selection-end="3406" vertical-scroll-proportion="0.42372882" vertical-offset="908" max-vertical-offset="1955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/shiftsToCredit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="37" selection-start="996" selection-end="996" vertical-scroll-proportion="0.535109" vertical-offset="0" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/users/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="12" selection-start="1227" selection-end="1227" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/compensation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="55" selection-start="1850" selection-end="1850" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2499">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/personal/overmilleage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="32" selection-start="802" selection-end="802" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Services/Almaty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="58" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.789731" vertical-offset="0" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PersonalController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="21" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="6137">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="57" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.44576877" vertical-offset="0" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
